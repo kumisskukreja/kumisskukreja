@@ -92,5 +92,3 @@ My work combines real-time threat detection using tools such as Splunk and Wazuh
 <li>Strengthening incident investigation skills</li>
 <li>Exploring AI-assisted security monitoring</li>
 </ul>
-
-<hr>
