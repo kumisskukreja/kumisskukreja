@@ -1,38 +1,69 @@
-👋 Hi, I’m Kumiss Kukreja
+<h1 align="center">Hi, I'm Kumiss Kukreja 👋</h1>
 
-Cybersecurity professional focused on Security Operations (SOC), Threat Detection, and Governance, Risk & Compliance (GRC).
+<p align="center">
+Cybersecurity professional focused on <b>Security Operations (SOC)</b>, 
+Threat Detection, and <b>Governance, Risk & Compliance (GRC)</b>.
+</p>
 
-With a background in IT service management and hands-on security labs, I specialize in identifying threats, strengthening security controls, and improving organizational resilience. I’m Security+ certified and continuously expanding my expertise in AI-driven security analysis.
+<p align="center">
+Security+ certified • SOC-focused • Exploring AI in Security
+</p>
 
-⸻
+<hr>
 
-🔐 Areas of Focus
-	•	Security Operations (SOC)
-	•	Threat Detection & Network Monitoring
-	•	Governance, Risk & Compliance (NIST CSF, ISO 27001, HIPAA)
-	•	Identity & Access Management (IAM)
-	•	Vulnerability Assessment
-	•	AI Applications in Cybersecurity
+<h2>🔐 About Me</h2>
 
-⸻
+<p>
+With a background in IT service management and hands-on security labs, 
+I specialize in identifying threats, strengthening security controls, 
+and improving organizational resilience.
+</p>
 
-🛠 Technical Experience
-	•	Tools: Suricata, Wireshark, FTK Imager
-	•	Systems: Windows, Linux (Ubuntu), Virtualized lab environments
-	•	Security Projects:
-	•	Built a honeypot for IoMT device monitoring
-	•	Reduced phishing click-through rates through security assessments
-	•	Optimized onboarding/offboarding IAM processes
+<p>
+I combine practical SOC experience with structured risk management 
+frameworks to build proactive and measurable security improvements.
+</p>
 
-⸻
+<hr>
 
-📜 Certifications & Learning
-	•	CompTIA Security+
-	•	University of Ottawa – Next Gen AI Development Program
+<h2>🛡 Areas of Focus</h2>
 
-⸻
+<ul>
+<li>Security Operations (SOC)</li>
+<li>Threat Detection & Network Monitoring</li>
+<li>NIST CSF, ISO 27001, HIPAA</li>
+<li>Identity & Access Management (IAM)</li>
+<li>Vulnerability Assessment</li>
+<li>AI Applications in Cybersecurity</li>
+</ul>
 
-🚀 Current Goals
-	•	Strengthening SOC investigation skills
-	•	Building practical detection & response labs
-	•	Exploring AI integration in security monitoring
+<hr>
+
+<h2>🛠 Technical Experience</h2>
+
+<ul>
+<li><b>Tools:</b> Suricata, Wireshark, FTK Imager</li>
+<li><b>Systems:</b> Windows, Linux (Ubuntu), Virtualized lab environments</li>
+<li><b>Project Highlight:</b> Built an IoMT honeypot for threat detection research</li>
+<li>Reduced phishing click-through rates by 30%</li>
+<li>Improved IAM onboarding/offboarding accuracy to 100% role alignment</li>
+</ul>
+
+<hr>
+
+<h2>🎯 Current Focus</h2>
+
+<ul>
+<li>Building SOC-focused home labs (Wazuh)</li>
+<li>Strengthening incident investigation skills</li>
+<li>Exploring AI-assisted security monitoring</li>
+</ul>
+
+<hr>
+
+<h3 align="center">📫 Connect</h3>
+
+<p align="center">
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a> • 
+<a href="mailto:kumisskukreja@gmail.com">Email</a>
+</p>
