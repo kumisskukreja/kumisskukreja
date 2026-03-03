@@ -6,7 +6,7 @@ Threat Detection, and <b>Governance, Risk & Compliance (GRC)</b>.
 </p>
 
 <p align="center">
-Security+ Certified • SOC-Focused • Exploring AI in Security
+Security+ Certified • SOC-Focused • Exploring AI in Cybersecurity
 </p>
 
 <hr>
@@ -18,7 +18,7 @@ I am a SOC-focused cybersecurity professional with a foundation in Governance, R
 </p>
 
 <p>
-My work combines real-time threat detection using tools such as Suricata and Wireshark with structured frameworks like NIST CSF and ISO 27001. I have contributed to measurable security improvements, including reducing phishing click-through rates by 30% and maintaining 100% role-based access accuracy in IAM processes. I am particularly interested in proactive defense, SIEM analysis, and building resilient SOC workflows.
+My work combines real-time threat detection using tools such as Splunk and Wazuh with structured frameworks like NIST CSF and ISO 27001. I have contributed to measurable security improvements, including reducing phishing click-through rates by 30% and maintaining 100% role-based access accuracy in IAM processes. I am particularly interested in proactive defense, SIEM analysis, and building resilient SOC workflows.
 </p>
 
 <hr>
@@ -26,12 +26,14 @@ My work combines real-time threat detection using tools such as Suricata and Wir
 <h2>🛡 Areas of Focus</h2>
 
 <ul>
-<li>Security Operations (SOC)</li>
-<li>Threat Detection & Network Monitoring</li>
-<li>NIST CSF, ISO 27001, HIPAA</li>
+<li>Security Operations Center (SOC) Analysis</li>
+<li>SIEM Monitoring & Log Analysis</li>
+<li>Security Event Correlation & Alert Triage</li>
+<li>Threat Detection & Incident Investigation</li>
+<li>Vulnerability Assessment & Risk Prioritization</li>
 <li>Identity & Access Management (IAM)</li>
-<li>Vulnerability Assessment</li>
-<li>AI Applications in Cybersecurity</li>
+<li>GRC Alignment (NIST CSF, ISO 27001)</li>
+<li>AI-Assisted Security Analytics</li>
 </ul>
 
 <hr>
@@ -81,12 +83,6 @@ My work combines real-time threat detection using tools such as Suricata and Wir
 <li>Structured Onboarding/Offboarding Processes</li>
 </ul>
 
-<p><b>Professional Skills</b></p>
-<ul>
-<li>Communication • Leadership • Problem-Solving</li>
-<li>Time Management • Adaptability • Teamwork • Resilience</li>
-</ul>
-
 <hr>
 
 <h2>🎯 Current Focus</h2>
@@ -98,10 +94,3 @@ My work combines real-time threat detection using tools such as Suricata and Wir
 </ul>
 
 <hr>
-
-<h3 align="center">📫 Connect</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/kumisskukreja/">LinkedIn</a> • 
-<a href="mailto:kumisskukreja@gmail.com">Email</a>
-</p>
